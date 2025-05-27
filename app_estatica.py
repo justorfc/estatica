@@ -30,7 +30,7 @@ elif menu == "Cálculo de Reacciones en Vigas":
     st.subheader("Cálculo de Reacciones en Vigas")
 
     st.markdown("**Ejemplo simplificado:**")
-    st.latex("\sum M_A = 0\quad\Rightarrow\quad R_B = (F \cdot d) / L")
+    st.latex(r"\sum M_A = 0\quad\Rightarrow\quad R_B = (F \cdot d) / L")
 
     F = st.number_input("Fuerza aplicada F (N):", value=100.0)
     d = st.number_input("Distancia desde A hasta la fuerza (m):", value=2.0)
