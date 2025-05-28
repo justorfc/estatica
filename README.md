@@ -18,7 +18,7 @@ Este proyecto es un homenaje al profesor José Arroyo, desarrollado por el profe
 1. Clona el repositorio:
 
 ```
-git clone https://github.com/tu_usuario/Estatica.git
+git clone https://github.com/justorfc/Estatica.git
 cd Estatica
 ```
 
